@@ -1,4 +1,5 @@
-# cob364ac6b1f1afd1edb9b79b
+# Cyberpunk Website
+Made as a solo project for scrimba web dev basics course
 
 ## About Scrimba
 
